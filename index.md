@@ -4,24 +4,31 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Hello, my name is Lakka and I'm a cat!
+<img src="assets/images/great_wall.jpg" alt="Photo" hspace="20" width="50%" align="right"/> 
+My name is Markus Kuosmanen. I'm studying computer science at the University of Helsinki. I'm passionate about foreign languages and cultures. One day I want to be able to work from anywhere and travel the world. The photo is from my study trip to China.
 
 ## Find me on
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+[Github](https://github.com/kuosmark)
+
+I don't really do "social" media.
 
 ## Contact
 
-My email address is of the form first_name.last_name@helsinki.fi. 
+My email is markus.kuosmanen@helsinki.fi.
 
-## Courses I've Taken
+## My Favourite Courses
 
-[Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
+[Fullstack-websovelluskehitys](https://courses.helsinki.fi/fi/tkt21009/121540749), spring 2018
 
-[Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
+[Ohjelmistotuotanto](https://courses.helsinki.fi/fi/tkt20006/124961597), fall 2018
 
 ## Projects
 
+Learning Spanish
+
+Learning Japanese
+
 ## Misc.
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+[My Favourite Podcast](http://www.hellointernet.fm/)
