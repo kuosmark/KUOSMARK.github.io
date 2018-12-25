@@ -38,6 +38,8 @@ This was clearly the most difficult week of the course. Nearly everything about 
 * Python modules can be installed using pip.
 * Make is used for building programs, libraries and projects.
 
+<img src="assets/images/python.png" alt="The Python logo" hspace="20" width="50%" align="right"/> 
+
 `sudo apt-get upgrade` fetches new versions of existing packages
 
 I learned about the running and installation of C programs and using make. I had already used Python for some of my own projects.
